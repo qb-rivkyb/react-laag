@@ -483,11 +483,11 @@ useLayer({ ResizeObserver });
 ## FAQ
 
 <details>
-  <summary>Is there support for accessability?</summary>
+  <summary>Is there support for accessibility?</summary>
   
   No, unfortunately not. There are two primary reasons:
   - This library is primary focussed around positioning
-  - Accessability not my area of expertise
+  - Accessibility not my area of expertise
 
 I'm open to the idea in the future though. I would be happy to get some help with this!
 
